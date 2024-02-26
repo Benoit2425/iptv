@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-logo="https://i.imgur.com/HBOHkgL.png" group-title="Undefined",Afizzionados (576p)
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Undefined",Azteca 7 (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Undefined",TUDN (720p)
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas (576p)
+https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="General",Canal 5 (1080p)
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Fox Sports 2
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Fox Sports 3
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Fox Sports Mexico
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1,GOLPERU
+https://nxt.plus:8443/Aliancista/914830/9758
+#EXTINF:-1,HBO | Dual Audio ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/16897
+#EXTINF:-1,TELESUR
+https://nxt.plus:8443/Aliancista/914830/27594
+#EXTINF:-1,| DRAGON BALL Z
+https://nxt.plus:8443/Aliancista/914830/177641
+#EXTINF:-1,| LOS SIMPSON
+https://nxt.plus:8443/Aliancista/914830/161585
+#EXTINF:-1,TNT SPORTS | AR ᴴᴰ***
+https://nxt.plus:8443/Aliancista/914830/213178
+#EXTINF:-1,ESPN PREMIUM | AR ᴴᴰ**
+https://nxt.plus:8443/Aliancista/914830/213179
+#EXTINF:-1,NFL NETWORK ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/15030
+#EXTINF:-1,ESPN 1 | CENTRO AME HD
+https://nxt.plus:8443/Aliancista/914830/201932
+#EXTINF:-1,DAZN F1 ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/25278
+#EXTINF:-1,TELEMUNDO MIAMI ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/15639
+#EXTINF:-1,ESPN 1 | MX ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/166748
+#EXTINF:-1,FOX DEPORTES | US ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/58606
+#EXTINF:-1,FOX SOCCER PLUS HD
+https://nxt.plus:8443/Aliancista/914830/197315
+#EXTINF:-1,TNT SPORTS HD (CL)
+https://nxt.plus:8443/Aliancista/914830/184411
+#EXTINF:-1,STAR+ || ESPN LIGA PRO
+https://nxt.plus:8443/Aliancista/914830/196293
+#EXTINF:-1,STAR+ || ESPN 2 LIGA PRO 
+https://nxt.plus:8443/Aliancista/914830/196292
+#EXTINF:-1,TNT SPORTS | AR ᴴᴰ*
+https://nxt.plus:8443/Aliancista/914830/25121
+#EXTINF:-1,SKY SPORTS LA LIGA ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/201471
+#EXTINF:-1,WWE ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/24992
+#EXTINF:-1,FOX SPORTS PREMIUM | MX ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/29785
+#EXTINF:-1,BEIN SPORTS | US ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/58063
+#EXTINF:-1,ESPN 3 | SUR ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/3267
+#EXTINF:-1,ESPN 2 | SUR
+https://nxt.plus:8443/Aliancista/914830/767
+#EXTINF:-1,TNT SPORTS 2** (CL)
+https://nxt.plus:8443/Aliancista/914830/191452
+#EXTINF:-1,TNT SPORTS 3*** (CL)
+https://nxt.plus:8443/Aliancista/914830/183279
+#EXTINF:-1,TNT SPORTS HD** (CL)
+https://nxt.plus:8443/Aliancista/914830/191454
+#EXTINF:-1,MOVISTAR +
+https://nxt.plus:8443/Aliancista/914830/191173
+#EXTINF:-1,ESPN 2 | MX ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/134386
+#EXTINF:-1,ESPN 3 | MX ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/29764
+#EXTINF:-1,TNT ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/25213
+#EXTINF:-1,TNT | US ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/169280
+#EXTINF:-1,TNT ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/172535
+#EXTINF:-1 tvg-id="" tvg-name="|US| TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="USA ENTERTAINMENT",|US| TBS
+http://x.v-iptv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/142243.ts
+#EXTINF:-1 tvg-id="" tvg-name="|US| TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="USA ENTERTAINMENT",|US| TBS
+http://x.v-iptv.com:25443/live/MAGJNtGLZi4wQ/Ds5YsFJtot/142243.ts
